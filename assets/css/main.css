@@ -146,7 +146,7 @@ input, select, textarea {
 	body {
 		color: #212931;
 	}
-
+	
 	body, input, select, textarea {
 		font-family: "Merriweather", Georgia, serif;
 		font-weight: 300;
@@ -2645,6 +2645,7 @@ input, select, textarea {
 
 			.image.main img {
 				width: 100%;
+				border: solid #999;
 			}
 
 		@media screen and (max-width: 736px) {
